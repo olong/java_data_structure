@@ -1,4 +1,4 @@
-//linkList.java
+//linkList2.java
 //demonstrates linked list
 //////////////////////////////////////
 
@@ -88,7 +88,7 @@ class LinkList
 
 }//end class LinkList
 
-class LinkListApp
+class LinkList2App
 {
     public static void main(String[] args)
     {
